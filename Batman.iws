@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bdad7fe-614f-4ccc-baef-aae92b72da30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Batman.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.ipr" afterDir="false" />
+    <list default="true" id="7bdad7fe-614f-4ccc-baef-aae92b72da30" name="Default Changelist" comment="iws ipr test3">
+      <change afterPath="$PROJECT_DIR$/src/Batman/Robin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batman/Batman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Batman/Batman.java" afterDir="false" />
+    </list>
+    <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="">
       <change beforePath="$PROJECT_DIR$/Batman.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.iws" afterDir="false" />
     </list>
     <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="" />
@@ -67,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576002918395</updated>
       <workItem from="1576002920194" duration="2119000" />
-      <workItem from="1576005098101" duration="536000" />
+      <workItem from="1576005098101" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;test clone and push project&#10;2 files (ipr, iws) have been commited">
       <created>1576003076803</created>
