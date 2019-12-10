@@ -8,14 +8,25 @@
     <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="">
       <change beforePath="$PROJECT_DIR$/Batman.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.iws" afterDir="false" />
     </list>
-    <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UnqtCPFfcobaBxKDuaAm8XQIvm" />
@@ -55,6 +66,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Batman" />
+        <item itemvalue="Application.Batman" />
+        <item itemvalue="Application.Batman" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576005491232</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="iws ipr test3">
+      <created>1576005671452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576005671452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +136,7 @@
     <MESSAGE value="First commit&#10;test clone and push project&#10;2 files (ipr, iws) have been commited" />
     <MESSAGE value="add iws to gitignore" />
     <MESSAGE value="add iws, ipr to gitignore - test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add iws, ipr to gitignore - test2" />
+    <MESSAGE value="iws ipr test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="iws ipr test3" />
   </component>
 </project>
