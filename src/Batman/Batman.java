@@ -2,6 +2,9 @@ package Batman;
 
 public class Batman {
     public static void main(String[] args) {
-        System.out.println("I'am Batman!");
+        String batman = "I'am Batman! ";
+
+        Robin robin = new Robin();
+        System.out.println(batman + robin.robin);
     }
 }
