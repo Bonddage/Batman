@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bdad7fe-614f-4ccc-baef-aae92b72da30" name="Default Changelist" comment="iws ipr test3">
-      <change afterPath="$PROJECT_DIR$/src/Batman/Robin.java" afterDir="false" />
+    <list default="true" id="7bdad7fe-614f-4ccc-baef-aae92b72da30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Batman/BatmanAndRobin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batman.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Batman/Batman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Batman/Batman.java" afterDir="false" />
     </list>
-    <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="">
-      <change beforePath="$PROJECT_DIR$/Batman.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.iws" afterDir="false" />
-    </list>
+    <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="no commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +49,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Batman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Batman.Batman" />
+    <configuration name="BatmanAndRobin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Batman.BatmanAndRobin" />
       <module name="Batman" />
       <extension name="coverage">
         <pattern>
@@ -65,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BatmanAndRobin" />
         <item itemvalue="Application.Batman" />
         <item itemvalue="Application.Batman" />
         <item itemvalue="Application.Batman" />
