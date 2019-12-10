@@ -23,4 +23,6 @@ hs_err_pid*
 *.iml
 .idea/*
 
-Batman.iws
+# project files
+*.iml
+*.iws
