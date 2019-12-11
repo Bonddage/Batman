@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bdad7fe-614f-4ccc-baef-aae92b72da30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Batman/BatmanAndRobin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batman.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.iws" afterDir="false" />
+    <list default="true" id="7bdad7fe-614f-4ccc-baef-aae92b72da30" name="Default Changelist" comment="iws ipr test3">
+      <change afterPath="$PROJECT_DIR$/src/Batman/Robin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Batman/Batman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Batman/Batman.java" afterDir="false" />
     </list>
-    <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="no commit" />
+    <list id="66148313-7a43-4708-9749-c456f8f7bb78" name="no commit" comment="">
+      <change beforePath="$PROJECT_DIR$/Batman.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Batman.iws" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576005671452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="batman and robin class">
+      <created>1576008475793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576008475793</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +145,7 @@
     <MESSAGE value="add iws to gitignore" />
     <MESSAGE value="add iws, ipr to gitignore - test2" />
     <MESSAGE value="iws ipr test3" />
-    <option name="LAST_COMMIT_MESSAGE" value="iws ipr test3" />
+    <MESSAGE value="batman and robin class" />
+    <option name="LAST_COMMIT_MESSAGE" value="batman and robin class" />
   </component>
 </project>

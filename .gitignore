@@ -1,3 +1,4 @@
+*.iws
 # Compiled class file
 *.class
 
@@ -22,6 +23,3 @@
 hs_err_pid*
 *.iml
 .idea/*
-
-# project files
-*.iws
